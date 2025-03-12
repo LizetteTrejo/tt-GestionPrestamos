@@ -5,6 +5,7 @@ El propósito de este trabajo terminal es la creación de un software de escrito
 - MySQL
 - Lector de huellas DigitalPersona U.are.U 4500
 - SDK DigitalPersona
+- C#
 
 ## Integrantes:
 - Calderón Zimbrón Luis Ángel
