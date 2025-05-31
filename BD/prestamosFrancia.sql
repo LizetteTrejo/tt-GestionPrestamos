@@ -360,16 +360,3 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
-
-use btgeigrnuorucipfwo9e;
-
-select * from alumno;
-
-SET SQL_SAFE_UPDATES = 0;
-
-SET SQL_SAFE_UPDATES = 1;
-
-select * from alumno;
-
-ALTER TABLE alumno
-ADD COLUMN confirmpswrd varchar(255);
